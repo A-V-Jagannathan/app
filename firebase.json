@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "embryowitnessingdata",
+          "appId": "1:340949271170:android:e93947990cc70353516a9b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "embryowitnessingdata",
+          "appId": "1:340949271170:ios:51bc1cd7b5e3ec71516a9b",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/configs/firebase/firebase_options.dart": {
+          "projectId": "embryowitnessingdata",
+          "configurations": {
+            "android": "1:340949271170:android:e93947990cc70353516a9b",
+            "ios": "1:340949271170:ios:51bc1cd7b5e3ec71516a9b"
+          }
+        }
+      }
+    }
+  }
+}

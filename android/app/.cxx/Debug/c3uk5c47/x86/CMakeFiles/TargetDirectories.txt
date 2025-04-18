@@ -1,0 +1,2 @@
+C:/witnessing_data_app/android/app/.cxx/Debug/c3uk5c47/x86/CMakeFiles/edit_cache.dir
+C:/witnessing_data_app/android/app/.cxx/Debug/c3uk5c47/x86/CMakeFiles/rebuild_cache.dir

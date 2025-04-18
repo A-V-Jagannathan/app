@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340949271170",
+    "project_id": "embryowitnessingdata",
+    "storage_bucket": "embryowitnessingdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340949271170:android:e93947990cc70353516a9b",
+        "android_client_info": {
+          "package_name": "lab.shafiee.witnessingDataApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C_IFzvzHYFTL2ViZJCO33ROggzdwbAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
